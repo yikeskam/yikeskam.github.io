@@ -1,0 +1,23 @@
+#
+# This file contains configuration flags to customize your site
+#
+# Name of your site (displayed in the header)
+title: Yikes, Kam!
+# Short bio or description (displayed in the header)
+description: A Blog
+
+#
+# !! DON'T EDIT BELOW THIS MESSAGE
+#
+# Use the following plug-ins
+plugins:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
