@@ -1,5 +1,4 @@
 ---
-layout: post
 title: I Guess I'm A Coder Now!
 ---
 
