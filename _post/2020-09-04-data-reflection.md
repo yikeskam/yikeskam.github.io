@@ -12,7 +12,7 @@ Obviously, data is crucial for writing to exist in the digital space. Have you e
 
 Rosenthal summarizes the process like so: 
 
-    “It’s really quite simple. You take a picture of your banana and bread, pass the image through a deep learning model to locate said items, do some nonlinear curve fitting to the banana, transform to polar coordinates and “slice” the banana along the fitted curve, turn those slices into elliptical polygons, and feed the polygons and bread “box” into a 2D nesting algorithm.” (Rosenthal)
+“It’s really quite simple. You take a picture of your banana and bread, pass the image through a deep learning model to locate said items, do some nonlinear curve fitting to the banana, transform to polar coordinates and “slice” the banana along the fitted curve, turn those slices into elliptical polygons, and feed the polygons and bread “box” into a 2D nesting algorithm.” (Rosenthal)
     
 Simple isn’t the word I would use, but it is impressive, nonetheless. With the level of complexity of the programs and software that Rosenthal used to complete this task, I believe it is safe to suggest that a combination of list and dictionary compound data were used. It is fascinating to me how data builds onto itself to create systems that allow humans to solve their problems. Problems as simple as online shopping, so we don’t have to leave our houses, to more complex issues like trying to find the ideal ratio of one’s sandwich contents! 
     
