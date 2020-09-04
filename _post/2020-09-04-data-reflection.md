@@ -8,7 +8,7 @@ title: Reflective Post: Data
 
 Obviously, data is crucial for writing to exist in the digital space. Have you ever thought about what other things data might be useful for? What about making a peanut butter and banana sandwich? Luckily, I found a gem of an article, or at least it is for those of us who love a good peanut butter and banana sandwich, that uses data to produce the perfect sandwich. Ethan Rosenthal, a data scientist in NYC, made a “pip installable python package nannernest” to optimize sandwiches and yield the perfect banana, peanut butter, bread ratio. Genius, I know! 
 
-Here is the link to the post : (https://www.ethanrosenthal.com/2020/08/25/optimal-peanut-butter-and-banana-sandwiches/)
+[Here is the link to the post] (https://www.ethanrosenthal.com/2020/08/25/optimal-peanut-butter-and-banana-sandwiches/)
 
   Rosenthal summarizes the process like so: 
 
