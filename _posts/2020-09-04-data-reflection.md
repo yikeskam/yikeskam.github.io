@@ -1,5 +1,5 @@
 ---
-title: Reflective Post: Data
+title: "Reflective Post: Data"
 ---
 
 After reading “What is Data,” I realized that I had never thought about data before, especially in terms of writing. As someone who is not exactly tech-savvy, I definitely never thought about how data impacts my education in English and my potential career in digital writing. 
