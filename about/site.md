@@ -6,6 +6,10 @@ Yikes, Kam was made originally because I am in ENGL 460 and making this blog is 
 
 To practice embedding images, I'm going to list some things I am interested in paired with an image to illustrate:
 
-Books.
+Books. Books. Books. 
 
+![Books](books.jpg)
 
+Finding the method to make the perfect matcha latte. 
+
+![Matcha](matcha.jpg)
