@@ -6,6 +6,7 @@ Yikes, Kam was made originally because I am in ENGL 460 and making this blog is 
 
 Below I have listed some things that I am interested in and would like to explore more throught this blog:
 
+
 Books. Books. Books. 
 
 ![Books](books.jpg)
@@ -16,12 +17,12 @@ Finding the method to making the perfect matcha latte.
 
 I love beauty, specifically skincare.
 
-[Skin](skin.jpg)
+![Skin](skin.jpg)
 
 I'm obsessed with music, and I am always singing (regardless of all the booing).
 
 ![Music](music.jpg)
 
-I deeply interested in the protection of the environment. 
+I am deeply interested in the protection of the environment. 
 
 ![Earth](earth.jpg)
