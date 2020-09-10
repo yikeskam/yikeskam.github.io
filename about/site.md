@@ -10,6 +10,18 @@ Books. Books. Books.
 
 ![Books](books.jpg)
 
-Finding the method to make the perfect matcha latte. 
+Finding the method to making the perfect matcha latte. 
 
 ![Matcha](matcha.jpg)
+
+I love beauty, specifically skincare.
+
+[Skin](skin.jpg)
+
+I'm obsessed with music, and I am always singing (regardless of all the booing).
+
+![Music](music.jpg)
+
+I deeply interested in the protection of the environment. 
+
+![Earth](earth.jpg)
