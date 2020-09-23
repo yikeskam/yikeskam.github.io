@@ -1,5 +1,7 @@
 ---
 title: I Guess I'm A Coder Now!
+categories:
+- About
 ---
 
 This is my **first post**.
