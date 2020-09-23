@@ -54,7 +54,18 @@ layout: default
     <p><strong>Posted In</strong>: {{categories | join: 'About,Reflections,Activities' | capitalize }}</p>
 {%endif%}
     <main id="content" class="main-content" role="main">
-      
+      <h1>Posts by Categories</h1>
+<ul>
+  {% for category in site.categories %}
+  {% capture category_name %}{{ category | first }}{% endcapture %}
+  <li>{{ category_name | capitalize }}
+    <ul>{% for post in site.categories[category_name] %}
+      <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>
+      {% endfor %}
+    </ul>
+  </li>
+  {% endfor %}
+</ul>
       <footer class="site-footer">
         {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
