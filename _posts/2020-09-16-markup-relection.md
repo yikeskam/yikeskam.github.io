@@ -1,5 +1,7 @@
 ---
 title: "Reflective Post: Markup"
+categories:
+- Reflections
 ---
 
 To be honest, this week’s topic was a bit challenging for me. I understood the reading just fine. I understood the elements of a document, and how markdown and HTML relate to web documents. When I started the “What is Markup?” Activity, I was doing fine until I had to put the navigation menu code into the default.html file. When trying to place the code into the file, I could not figure out where it was supposed to go. On top of that dilemma, every time I put the navigation menu code into the file and went to look at my site, the site repeated. The first half of the page was how my blog looked before (the Cayman theme), and the second half was the primer theme, except it had the navigation bar. I am still perplexed. I have been googling to try to figure out the issue, but alas, maybe I have found a question that google can’t answer. I am still going to continue to try to figure it out, because I really want to learn how. 
