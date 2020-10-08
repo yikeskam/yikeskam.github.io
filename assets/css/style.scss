@@ -9,7 +9,7 @@
 	display: inline-block;
 }
 
-.navigation_list-item a {
+.navigation_list-item {
 	display: inline-block;
     color: darkslategray;
     background-color: whitesmoke;
@@ -31,3 +31,13 @@ a {
     text-decoration: none;
 	display: inline-block;
 }
+
+.post {
+	color: darkslategray;
+    background-color: whitesmoke;
+    text-decoration: none;
+    padding: 2px;
+    font-weight: bold;
+    border-radius: 5px;	
+}
+	
