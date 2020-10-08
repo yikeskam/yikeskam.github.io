@@ -3,6 +3,7 @@
 
 @import "{{ site.theme }}";
 
-.text-center {
-	text-align: center
+.navigation_list {
+	list-style: none;
+	padding: 0;
 }
