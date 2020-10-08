@@ -29,11 +29,11 @@
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       <h3>Menu</h3>
-<ul>
-<li><a href="/about/site.html">About This Site</a></li>
-<li><a href="/about/me.html">About Me</a></li>
-<li><a href="/about/work.html">About My Work</a></li>
-<li><a href="categories.html">Posts By Categories</a></li>
+<ul class="navigation_list">
+<li class="navigation_list-item"><a href="/about/site.html">About This Site</a></li>
+<li class="navigation_list-item"><a href="/about/me.html">About Me</a></li>
+<li class="navigation_list-item"><a href="/about/work.html">About My Work</a></li>
+<li class="navigation_list-item"><a href="categories.html">Posts By Categories</a></li>
 </ul>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
