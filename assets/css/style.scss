@@ -6,12 +6,16 @@
 .navigation_list {
 	list-style: none;
 	padding: 0;
-    color: #4f4f50;
-    text-decoration: none;
 }
 
 .navigation_list-item {
 	display: inline-block;
+    color: #616263;
+    background-color: whitesmoke;
+    text-decoration: none;
+    padding: 2px;
+    font-weight: bold;
+    border-radius: 5px;	
 }
 
 .page-header {
