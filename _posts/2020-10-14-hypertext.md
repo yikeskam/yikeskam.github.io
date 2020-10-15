@@ -1,5 +1,5 @@
 ---
-title: First Post
+title: Learning Hypertext Through Games
 categories: 
 - Activities
 ---
